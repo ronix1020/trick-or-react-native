@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testProyect</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCO8S3xXWFPtZOLlsP1c91fB7vtMOtaF9M</string>
+</resources>
